@@ -11,14 +11,15 @@ th {
 }
 
 td {
-    padding:5px;
-    vertical-align:center;
+  padding-bottom:20px;
 }
 
+
 th {
-  text-align:center;
+  text-align:left;
+  padding-right:2em;
 }
 
 ul {
-   margin:0;
+	margin:0;
 }
